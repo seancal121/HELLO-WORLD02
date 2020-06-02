@@ -1,6 +1,6 @@
 # hello-world
 
-Let it work
+Let it fly!
 
 Sean is here, Mars is too red for me, let me find other coloured planet.
 Moon, thats something.Yeah
